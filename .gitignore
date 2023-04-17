@@ -1,0 +1,20 @@
+# Gitignore for the following technologies: Go
+
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.env
+
+*.test
+
+*.out
+
+# vendor/
+
+go.work
+
